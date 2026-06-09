@@ -1,6 +1,6 @@
 # picture-book-audit
 
-**A Claude Code skill that reviews any project as an illustrated before/after picture book — not a wall of text.**
+**An agent skill that reviews any project as an illustrated before/after picture book — not a wall of text.**
 
 Point it at a codebase and it produces a single self-contained HTML report: what the product looks like *today*, what to *polish*, and what to *build next* — every point drawn as a faithful mockup of the real UI, with the problem circled in red and the fix sketched in blue. It themes itself in the audited project's own brand, so each report looks native to its app.
 
@@ -33,14 +33,14 @@ It's mostly UI/UX, but it can also cover **performance, backend, and accessibili
 
 ## Install
 
-Drop the folder into your Claude Code skills directory:
+Drop the folder into your agent skills directory:
 
 ```bash
 git clone https://github.com/ajjucoder/picture-book-audit.git \
   ~/.claude/skills/picture-book-audit
 ```
 
-Claude Code discovers it automatically.
+Your agent discovers it automatically.
 
 ## Use
 
