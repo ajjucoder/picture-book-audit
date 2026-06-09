@@ -40,7 +40,7 @@ git clone https://github.com/ajjucoder/picture-book-audit.git \
   ~/.claude/skills/picture-book-audit
 ```
 
-Claude Code discovers it automatically. (Works wherever agent skills are loaded — see your platform's skills docs.)
+Claude Code discovers it automatically.
 
 ## Use
 
